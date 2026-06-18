@@ -1,0 +1,9 @@
+COURSES
+Electronics
+Computer Science
+Information Technology
+Electricity
+Mechanical
+Civil
+Printing
+Architecture
